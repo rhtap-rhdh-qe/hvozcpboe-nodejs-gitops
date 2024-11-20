@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hvozcpboe-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hvozcpboe-nodejs-gitops
